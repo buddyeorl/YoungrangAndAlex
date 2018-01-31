@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+.pointer1 {
+cursor:pointer;
+}
+
+*{margin:0; padding:0;}
+img{border:0; width:100%}
+
+.btn_area{text-align:center}
+.call_box img {width:50%}
+/*±âº»ÅÂ±× Á¤ÀÇ*/
+html, body {padding:0;margin:0;}
+
+/*body, td, th, select, textarea, input, a, address, span, em{font-size:12px;font-family:'µ¸¿ò','Dotum', 'verdana';color:#666;}*/
+body, td, th, select, textarea, input, a, address, span, em{font-size:12px;font-family:'Nanum Gothic', 'verdana';color:#666;}
+
+/* for AXISJ */
+/*body, select, input, a, button{line-height:1.6em;}*/
+
+/* ¸µÅ© Å×µÎ¸® Á¦°Å */
+/*a{outline:none;select-dummy:expression(this.hideFocus=true);}*/
+
+/* ¸¶Áø°ú ÆÐµùÀÇ ÃÊ±âÈ­ */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td {margin:0;padding:0;}
+
+/* Çì´õ ÆùÆ® »çÀÌÁî ÃÊ±âÈ­ */
+h1, h2, h3, h4, h5, h6 {font-size:100%;font-weight:normal;}
+
+/* ¸®½ºÆ®ÀÇ ½ºÅ¸ÀÏ Á¦°Å */
+ol, ul {list-style:none;}
+em,address{font-style:normal;}
+
+
+/* ÀÌ¹ÌÁö ¹× ÇÊµå¼Â¿¡¼­ º¸´õ Ç¥½Ã ÃÊ±âÈ­ */
+fieldset, img {border:0;}
+img{vertical-align:middle;}
+a { -webkit-tap-highlight-color:transparent;}
+
+
+/* ÆûÅÂ±×ÀÇ ÃÊ±âÈ­ */
+select {font-size:12px;font-family:'µ¸¿ò','Dotum', 'verdana';vertical-align:middle;color:#666;}
+input {font-size:12px;font-family:'µ¸¿ò','Dotum', 'verdana';vertical-align:middle;color:#666;}
+textarea {font-size:12px;font-family:'µ¸¿ò','Dotum', 'verdana';line-height:140%;color:#666;}
+input.radio {vertical-align:middle;}
+
+a:link    {color:#666; text-decoration:none;}
+a:active    {color:#666; text-decoration:none;}
+a:visited    {color:#666; text-decoration:none;}
+a:hover    {color:#666; text-decoration:none;}
+
+
+
+
